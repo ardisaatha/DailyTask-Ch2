@@ -11428,15 +11428,18 @@ header.masthead h1, header.masthead .h1 {
 /* berubah */
 .contactUs{
   border-radius: 0.7rem;
+  height: 33rem;
 }
 /* berubah */
 .contactDetail p{
   margin-top: 2rem;
 }
+/* berubah */
 .contactDetail img{
   width: 1.5rem;
   margin-right: 1rem;
 }
+/* berubah */
 .contactLogo img{
   width: 1.7rem;
   height: 1.7rem;
